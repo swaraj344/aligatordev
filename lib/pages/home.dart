@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:website/components/appbar.dart';
+import 'package:website/components/centered_view.dart';
 
 class Home extends StatelessWidget {
   @override
